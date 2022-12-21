@@ -1,0 +1,7 @@
+.venv/
+logs/
+testing/
+.env*
+__pycache__/
+BK_*
+kaggle.json
