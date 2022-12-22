@@ -16,4 +16,4 @@ then
 fi
 
 # Unzip file
-unzip -o ${AIRFLOW_HOME_DIR}/dags/datasets/${FILE_NAME} -d ${AIRFLOW_HOME_DIR}/dags/datasets
+#unzip -o ${AIRFLOW_HOME_DIR}/dags/datasets/${FILE_NAME} -d ${AIRFLOW_HOME_DIR}/dags/datasets
