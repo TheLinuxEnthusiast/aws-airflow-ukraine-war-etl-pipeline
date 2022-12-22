@@ -5,3 +5,4 @@ testing/
 __pycache__/
 BK_*
 kaggle.json
+dags/datasets/russia_losses*
